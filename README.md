@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thymeleaf-#005F0F?style=flat&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=badge&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=badge&logo=Css3&logoColor=white"/>
